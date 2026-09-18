@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dell\\KM-Maks\\lab2\\lab2.csproj": {}
+    "c:\\Users\\Dell\\KM-Maks\\lab3\\lab3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dell\\KM-Maks\\lab2\\lab2.csproj": {
+    "c:\\Users\\Dell\\KM-Maks\\lab3\\lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dell\\KM-Maks\\lab2\\lab2.csproj",
-        "projectName": "lab2",
-        "projectPath": "c:\\Users\\Dell\\KM-Maks\\lab2\\lab2.csproj",
+        "projectUniqueName": "c:\\Users\\Dell\\KM-Maks\\lab3\\lab3.csproj",
+        "projectName": "lab3",
+        "projectPath": "c:\\Users\\Dell\\KM-Maks\\lab3\\lab3.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dell\\KM-Maks\\lab2\\obj\\",
+        "outputPath": "c:\\Users\\Dell\\KM-Maks\\lab3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
