@@ -1,0 +1,14 @@
+C:\Users\Dell\KM-Maks\lab1\bin\Debug\net9.0\lab1.exe
+C:\Users\Dell\KM-Maks\lab1\bin\Debug\net9.0\lab1.deps.json
+C:\Users\Dell\KM-Maks\lab1\bin\Debug\net9.0\lab1.runtimeconfig.json
+C:\Users\Dell\KM-Maks\lab1\bin\Debug\net9.0\lab1.dll
+C:\Users\Dell\KM-Maks\lab1\bin\Debug\net9.0\lab1.pdb
+C:\Users\Dell\KM-Maks\lab1\obj\Debug\net9.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\KM-Maks\lab1\obj\Debug\net9.0\lab1.AssemblyInfoInputs.cache
+C:\Users\Dell\KM-Maks\lab1\obj\Debug\net9.0\lab1.AssemblyInfo.cs
+C:\Users\Dell\KM-Maks\lab1\obj\Debug\net9.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\KM-Maks\lab1\obj\Debug\net9.0\lab1.dll
+C:\Users\Dell\KM-Maks\lab1\obj\Debug\net9.0\refint\lab1.dll
+C:\Users\Dell\KM-Maks\lab1\obj\Debug\net9.0\lab1.pdb
+C:\Users\Dell\KM-Maks\lab1\obj\Debug\net9.0\lab1.genruntimeconfig.cache
+C:\Users\Dell\KM-Maks\lab1\obj\Debug\net9.0\ref\lab1.dll
