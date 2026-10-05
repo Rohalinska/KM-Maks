@@ -1,7 +1,3 @@
-Ось оновлений варіант, де в питанні №2 використано перші (повніші) приклади кодів:
-
----
-
 ## Контрольні запитання
 
 ### 1. Принцип побудови ієрархії пам’яті
@@ -61,8 +57,8 @@ for (int i = 0; i < 100; i++) {
 
 ### 8. Формули бітів Offset та VPN
 
-* $\text{Offset bits} = \log_2(\text{Page\_Size})$
-* $\text{VPN bits} = \text{Address\_Bits} - \text{Offset bits}$
+* $\text{Offset bits} = \log_2(\text{Page Size})$
+* $\text{VPN bits} = \text{Address Bits} - \text{Offset bits}$
 * *Приклад (32-біт адреса, сторінка 4 КБ = $2^{12}$ Б):* $\text{Offset} = 12$ біт, $\text{VPN} = 32 - 12 = 20$ біт.
 
 ### 9. TLB-промах vs Page Fault
